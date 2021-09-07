@@ -1,2 +1,2 @@
-# Impar-Ou-Par-CSharp
+# Impar ou Par C#
 Jogo bem simples feito em C#
