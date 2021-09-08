@@ -14,4 +14,4 @@ O intervalo do valor numérico do player2 vai de 0 a 10. Então as jogadas são 
 
 ### Preview do Programa rodando!
 
-<img src="https://cdn.discordapp.com/attachments/865484290648178708/884949314995101786/ezgif.com-gif-maker.gif" />
+<img src="https://cdn.discordapp.com/attachments/865484290648178708/885309802534805504/ezgif.com-gif-maker_1.gif" />
